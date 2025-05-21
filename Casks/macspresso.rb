@@ -5,7 +5,7 @@ cask "macspresso" do
   url "https://github.com/krisapa/MacSpresso/releases/download/#{version}/MacSpresso_#{version}.dmg"
   name "MacSpresso"
   desc "Menu bar app to manage system caffeination"
-  homepage "https://github.com/6b70/MacSpresso"
+  homepage "https://github.com/krisapa/MacSpresso"
 
   livecheck do
     url :url
